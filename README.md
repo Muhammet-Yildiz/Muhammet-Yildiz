@@ -22,12 +22,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammet-Yildiz&count_private=true)   
   
  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammet-Yildiz&layout=compact)](https://github.com/Muhammet-Yildiz/github-readme-stats)
-   
-
+ 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammet-Yildiz&layout=compact)](https://github.com/Muhammet-Yildiz/github-readme-stats)
-
+   
 
 
    
