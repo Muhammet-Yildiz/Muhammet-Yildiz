@@ -17,7 +17,8 @@
 
  <br>
 
-![](https://komarev.com/ghpvc/?username=Muhammet-Yildiz)
+
+<!-- ![](https://komarev.com/ghpvc/?username=Muhammet-Yildiz) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammet-Yildiz&count_private=true)   
   
