@@ -3,7 +3,7 @@
 ## <p align="center"> Hi  👋 , I 'm Muhammet </p>
 <br>
 
-- 🌱 I’m currently learning  Node.js  , Exprees.js 
+- 🌱 I’m currently learning  Node.js  , Express.js 
 
 - 💬 Ask me about Javascript , Java  , Django
 
