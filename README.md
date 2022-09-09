@@ -3,9 +3,9 @@
 ## <p align="center"> Hi  👋 , I 'm Muhammet </p>
 <br>
 
-- 🌱 I’m currently learning  TypeScript
+- 🌱 I’m currently learning  React Native
 
-- 💬 Ask me about Javascript , Java  , Django
+- 💬 Ask me about Javascript , React  , Django
 
 - 👨‍💻 All of my projects are available at https://github.com/Muhammet-Yildiz?tab=repositories
 
